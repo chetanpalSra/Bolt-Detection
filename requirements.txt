@@ -3,5 +3,6 @@ streamlit
 opencv-python-headless
 pillow
 numpy
-torch==2.1.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
 gdown
